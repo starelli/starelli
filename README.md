@@ -20,5 +20,5 @@ Essas são algumas linguagens que domino:
 ![Linguagens](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![starelli´github](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starelli&show_icons=true&theme=synthwave)
 
